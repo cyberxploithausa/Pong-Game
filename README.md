@@ -35,7 +35,7 @@ To run the Pong game locally or explore the code, follow these steps:
    python pong.py
 Enjoy the game and feel free to explore the code to understand how it works!
 
-Contributing
+# Contributing
 Contributions are welcome! If you'd like to enhance the game, fix bugs, or add new features, please follow these guidelines:
 
 1. Fork this repository.
@@ -46,5 +46,5 @@ Contributions are welcome! If you'd like to enhance the game, fix bugs, or add n
 6. Create a pull request (PR) describing your changes.
 Please maintain clear and concise code, and ensure the game remains user-friendly.
 
-License
+# License
 This project is licensed under the MIT License. Feel free to use the code as a reference, modify it, or share it with others.
