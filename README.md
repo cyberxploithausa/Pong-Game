@@ -30,7 +30,7 @@ To run the Pong game locally or explore the code, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/pong-game-python.git
+   git clone https://github.com/cyberxploithausa/Pong-Game.git
    cd Pong-Game
    python pong.py
 Enjoy the game and feel free to explore the code to understand how it works!
